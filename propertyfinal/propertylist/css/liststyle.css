@@ -1,0 +1,222 @@
+.houses .house01{
+    background: whitesmoke;
+    box-shadow: 1px 4px 4px 5px rgba(0, 0, 0, 0.15);
+   width: 400px;
+   height:670px;
+   margin:-10px 30px;
+ 
+}
+.houses .house01 h3{
+    padding: 5px 0 0 5px;
+    margin: 10px 0;
+}
+.houses .house01 i{
+    padding: 5px 0 0 15px;
+    margin: -20px 0;
+}
+.houses .house01 p{
+    padding: 5px 0 0 15px;
+    margin: -25px 40px 0 20px;
+}
+.houses .house01 .loc p{
+    padding: 5px 0 0 30px;
+}
+.houses .house01 .agent img{
+    border-radius: 50%;
+    margin :5px 5px 5px 5px;
+}
+.houses .house01 .agent p{
+    margin: -110px 50px 0 100px;
+}
+.button1{
+    margin:20px 320px;
+   
+}
+
+
+/*home 2*/
+.home .house02{
+    background: whitesmoke;
+    box-shadow: 1px 4px 4px 5px rgba(0, 0, 0, 0.15);
+   width: 400px;
+   height:670px;
+   margin:-710px 530px;
+   
+ 
+}
+.home .house02 h3{
+    padding: 5px 0 0 5px;
+    margin: 10px 0;
+}
+.home .house02 i{
+    padding: 5px 0 0 15px;
+    margin: -20px 0;
+}
+.home .house02 p{
+    padding: 5px 0 0 15px;
+    margin: -25px 40px 0 20px;
+}
+.home .house02 .loc p{
+    padding: 5px 0 0 30px;
+}
+.home .house02 .agent img{
+    border-radius: 50%;
+    margin :5px 5px 5px 5px;
+}
+.home .house02 .agent p{
+    margin: -110px 50px 0 100px;
+}
+.button2{
+    margin:5px 320px;
+ }
+
+
+/*home 3*/
+.home3 .house03{
+    background: whitesmoke;
+    box-shadow: 1px 4px 4px 5px rgba(0, 0, 0, 0.15);
+   width: 400px;
+   height:670px;
+   margin:0 1030px;
+ 
+}
+.home3 .house03 h3{
+    padding: 5px 0 0 5px;
+    margin: 10px 0;
+}
+.home3 .house03 i{
+    padding: 5px 0 0 15px;
+    margin: -20px 0;
+}
+.home3 .house03 p{
+    padding: 5px 0 0 15px;
+    margin: -25px 40px 0 20px;
+}
+.home3 .house03 .loc p{
+    padding: 5px 0 0 30px;
+}
+.home3 .house03 .agent img{
+    border-radius: 50%;
+    margin :5px 5px 5px 5px;
+}
+.home3 .house03 .agent p{
+    margin: -110px 50px 0 100px;
+}
+.button3{
+    margin:5px 320px;
+ }
+
+
+/*house 04*/
+.houses4 .house04{
+    background: whitesmoke;
+    box-shadow: 1px 4px 4px 5px rgba(0, 0, 0, 0.15);
+   width: 400px;
+   height:670px;
+   margin:-20px 30px;
+   
+ 
+}
+.houses4 .house04 h3{
+    padding: 5px 0 0 5px;
+    margin: 10px 0;
+}
+.houses4 .house04 i{
+    padding: 5px 0 0 15px;
+    margin: -20px 0;
+}
+.houses4 .house04 p{
+    padding: 5px 0 0 15px;
+    margin: -25px 40px 0 20px;
+}
+.houses4 .house04 .loc p{
+    padding: 5px 0 0 30px;
+}
+.houses4 .house04 .agent img{
+    border-radius: 50%;
+    margin :5px 5px 5px 5px;
+}
+.houses4 .house04 .agent p{
+    margin: -110px 50px 0 100px;
+}
+.button4{
+    margin:15px 320px;
+ }
+
+
+/*house 05*/
+.home5 .house05{
+    background: whitesmoke;
+    box-shadow: 1px 4px 4px 5px rgba(0, 0, 0, 0.15);
+   width: 400px;
+   height:670px;
+   margin:-690px 530px;
+   
+ 
+}
+.home5 .house05 h3{
+    padding: 5px 0 0 5px;
+ 
+}
+.home5 .house05 i{
+    padding: 5px 0 0 15px;
+    margin: -20px 0;
+}
+.home5 .house05 p{
+    padding: 5px 0 0 15px;
+    margin: -25px 40px 0 20px;
+}
+.home5 .house05 .loc p{
+    padding: 5px 0 0 30px;
+}
+.home5 .house05 .agent img{
+    border-radius: 50%;
+    margin :5px 5px 5px 5px;
+}
+.home5 .house05 .agent p{
+    margin: -110px 50px 0 100px;
+}
+.button5{
+    margin:5px 320px;
+ }
+
+/*home 6*/
+.home6 .house06{
+    background: whitesmoke;
+    box-shadow: 1px 4px 4px 5px rgba(0, 0, 0, 0.15);
+   width: 400px;
+   height:670px;
+   margin:-20px 1030px;
+   
+ 
+}
+.home6 .house06 h3{
+    padding: 5px 0 0 5px;
+  
+}
+.home6 .house06 i{
+    padding: 5px 0 0 15px;
+    margin: -20px 0;
+}
+.home6 .house06 p{
+    padding: 5px 0 0 15px;
+    margin: -25px 40px 0 20px;
+}
+.home6 .house06 .loc p{
+    padding: 5px 0 0 30px;
+}
+.home6 .house06 .agent img{
+    border-radius: 50%;
+    margin :5px 5px 5px 5px;
+}
+.home6 .house06 .agent p{
+    margin: -110px 50px 0 100px;
+}
+.button6{
+   margin:5px 320px;
+}
+
+
+
+
+
